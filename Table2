@@ -1,0 +1,36 @@
+</DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Table 2</title>
+</head>
+<body>
+<h2> Information </h2>
+<table border="1">
+    <thead>
+    <tr>
+        <th>Provider Name</th>
+        <th>E-mail Name</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Jacob</td>
+        <td>test.12@gmail.com</td>
+        <td><input type="button" value="select" ></td>
+    </tr>
+    <td>Willam</td>
+    <td>text.2@gmail.com</td>
+    <td><input type="button" value="select" ></td>
+    <tr>
+        <td>Eddie</td>
+        <td>test.3@gmail.com</td>
+        <td><input type="button" value="select" ></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
+</DOCTYPE html>
