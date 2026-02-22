@@ -9,12 +9,11 @@ const Header = () => {
                 <a href="#about">About</a>
                 <a href="#skills">Skills</a>
                 <a href="#projects">Projects</a>
-                <a href="#contact">Contact</a>
             </div>
         </div>
         <div>
             <div className="hero">
-                <h1>Hi, I'm Venu Phani 👋</h1>
+                <h1>Hi, I'm Venu Phani </h1>
                 <p>Senior Front-End Developer | React Expert | AWS Cloud Integration</p>
                 <a href="#contact" >
                     <button className="btn">
