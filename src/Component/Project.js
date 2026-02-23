@@ -2,8 +2,8 @@ import React from "react";
 
 const Experience = () => {
     return (
-        <div id="projects" className="div">
-            <h2  className="title">Experience</h2>
+        <section id="projects" className="section">
+            <h2  className="section-title">Experience</h2>
             <div>
                 <div className="card">
                     <h3>
@@ -32,7 +32,7 @@ const Experience = () => {
                     </p>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

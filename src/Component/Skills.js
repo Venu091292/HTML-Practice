@@ -8,14 +8,14 @@ const Skills = () => {
     ];
 
     return (
-        <div id="skills" className="div">
-            <h2 className="title">Technical Skills</h2>
+        <section id="skills" className="section">
+            <h2 className="section-title">Technical Skills</h2>
             <div className="skills">
                 {skills.map((skill) => (
                     <ul key={skill}>{skill}</ul>
                 ))}
             </div>
-        </div>
+        </section>
     );
 };
 
